@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".main.widget.MainActivity">
+    <group android:checkableBehavior="single">
+        <!--android:icon="@drawable/ic_assessment_white_24dp"-->
+        <item
+            android:id="@+id/navigation_item_demos"
+            android:checked="true"
+            android:title="@string/navigation_demos" />
+        <item
+            android:id="@+id/navigation_item_website"
+            android:title="@string/navigation_website" />
+
+        <item
+            android:id="@+id/navigation_item_about"
+            android:title="@string/navigation_about" />
+    </group>
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LibCollections</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">yaomingLu</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="navigation_demos">应用</string>
+    <string name="navigation_website">网站</string>
+    <string name="navigation_about">关于</string>
+
+    <string name="democode_tab_title_UI">UI</string>
+    <string name="democode_tab_title_function">功能</string>
+    <string name="democode_tab_title_database">数据库</string>
+
+
+
+</resources>
